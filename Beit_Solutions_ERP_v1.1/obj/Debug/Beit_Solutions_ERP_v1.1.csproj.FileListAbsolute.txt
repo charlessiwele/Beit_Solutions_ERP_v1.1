@@ -1,0 +1,51 @@
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\Beit_Solutions_ERP_v1.1.exe
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\Beit_Solutions_ERP_v1.1.exe.config
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.FormMain.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmBenefits.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmBusiness.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmClients.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmEmployees.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmProducts.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmRoles.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmSalaries.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmSalesInvoices.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmSalesQuotes.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.PopUps.FrmNewClients.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.PopUps.FrmSearchClient.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.Users.FrmLogin.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmLocations.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmReservations.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.Users.FrmUsers.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Properties.Resources.resources
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.csproj.GenerateResource.Cache
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.exe
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.pdb
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\Beit_Solutions_ERP_v1.1.pdb
+C:\Users\Charles\documents\visual studio 2013\Projects\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\Beit_Solutions_ERP_v1.1.exe.config
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\Beit_Solutions_ERP_v1.1.exe
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\Beit_Solutions_ERP_v1.1.pdb
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.csprojAssemblyReference.cache
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.FormMain.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmBenefits.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmBusiness.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmClients.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmEmployees.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmProducts.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmRoles.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmSalaries.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmSalesInvoices.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmSalesQuotes.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.PopUps.FrmNewClients.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.PopUps.FrmSearchClient.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.Users.FrmLogin.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmLocations.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.FrmReservations.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Forms.Users.FrmUsers.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1._1.Properties.Resources.resources
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.csproj.GenerateResource.cache
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.exe
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.pdb
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\bin\Debug\ZetPDF.dll
+C:\xampp\htdocs\PROJECTS\C#\Beit_Solutions_ERP_v1.1\Beit_Solutions_ERP_v1.1\obj\Debug\Beit_Solutions_ERP_v1.1.csproj.CopyComplete

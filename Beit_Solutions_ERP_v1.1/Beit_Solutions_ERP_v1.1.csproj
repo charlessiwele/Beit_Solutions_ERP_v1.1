@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7AEDFCA3-C683-4804-91ED-ABE53A9F6622}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Beit_Solutions_ERP_v1._1</RootNamespace>
+    <AssemblyName>Beit_Solutions_ERP_v1.1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZetPDF">
+      <HintPath>..\..\..\..\..\..\Users\Charles\Desktop\Software\ZetPdf\Binaries\ZetPDF.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataConnectionHandlers\ConnectClients.cs" />
+    <Compile Include="DataConnectionHandlers\Connection.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectLocations.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectBusiness.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectReservations.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectGuests.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectEmployees.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectBenefits.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectSalaries.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectRoles.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectSalesQuotes.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectSalesInvoices.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectUsers.cs" />
+    <Compile Include="DataConnectionHandlers\ConnectProducts.cs" />
+    <Compile Include="FileHandlers\Base.cs" />
+    <Compile Include="FileHandlers\PdfHandler.cs" />
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmBenefits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmBenefits.Designer.cs">
+      <DependentUpon>FrmBenefits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmBusiness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmBusiness.Designer.cs">
+      <DependentUpon>FrmBusiness.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmClients.Designer.cs">
+      <DependentUpon>FrmClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmEmployees.Designer.cs">
+      <DependentUpon>FrmEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmProducts.Designer.cs">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRoles.Designer.cs">
+      <DependentUpon>FrmRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSalesInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSalesInvoices.Designer.cs">
+      <DependentUpon>FrmSalesInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSalesQuotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSalesQuotes.Designer.cs">
+      <DependentUpon>FrmSalesQuotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PopUps\FrmNewClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PopUps\FrmNewClients.Designer.cs">
+      <DependentUpon>FrmNewClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PopUps\FrmSearchClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PopUps\FrmSearchClient.Designer.cs">
+      <DependentUpon>FrmSearchClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSalaries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSalaries.Designer.cs">
+      <DependentUpon>FrmSalaries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLocations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLocations.Designer.cs">
+      <DependentUpon>FrmLocations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmReservations.Designer.cs">
+      <DependentUpon>FrmReservations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUsers.Designer.cs">
+      <DependentUpon>FrmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects\Benefit.cs" />
+    <Compile Include="Objects\Business.cs" />
+    <Compile Include="Objects\Client.cs" />
+    <Compile Include="Objects\Employee.cs" />
+    <Compile Include="Objects\Location.cs" />
+    <Compile Include="Objects\Product.cs" />
+    <Compile Include="Objects\Salary.cs" />
+    <Compile Include="Objects\Reservation.cs" />
+    <Compile Include="Objects\Role.cs" />
+    <Compile Include="Objects\SalesQuote.cs" />
+    <Compile Include="Objects\SalesInvoice.cs" />
+    <Compile Include="Objects\User.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmBenefits.resx">
+      <DependentUpon>FrmBenefits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmBusiness.resx">
+      <DependentUpon>FrmBusiness.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmClients.resx">
+      <DependentUpon>FrmClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmEmployees.resx">
+      <DependentUpon>FrmEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmProducts.resx">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRoles.resx">
+      <DependentUpon>FrmRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSalaries.resx">
+      <DependentUpon>FrmSalaries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSalesInvoices.resx">
+      <DependentUpon>FrmSalesInvoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSalesQuotes.resx">
+      <DependentUpon>FrmSalesQuotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PopUps\FrmNewClients.resx">
+      <DependentUpon>FrmNewClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PopUps\FrmSearchClient.resx">
+      <DependentUpon>FrmSearchClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLocations.resx">
+      <DependentUpon>FrmLocations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmReservations.resx">
+      <DependentUpon>FrmReservations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmUsers.resx">
+      <DependentUpon>FrmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
